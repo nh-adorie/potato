@@ -1,0 +1,63 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+/* html css */
+html {
+    font-family: "iCiel Mijas";
+    scroll-behavior: smooth;
+    
+}
+
+#page {
+    
+}
+.header-img {
+    width: 100%;
+    position: fixed;
+}
+
+#main {
+padding-top: 173px;
+}
+
+#about {
+background-image: url(/img/background.png);
+background-size: cover;
+padding: 50px;
+}
+
+#about .profile {
+    width: 35%;
+    border-color: #70440c;
+    border-width: 10px;
+    border-style:dotted;
+    border-radius: 10px;
+    
+}
+
+#about .infor {
+    margin-left: 70px;
+    width: 54%;
+    font-size: 30px;
+    display: inline-block;
+    background-color: #fff6ea ;
+}
+#life {
+
+}
+
+#hpbd {
+
+}
+
+#wish {
+
+}
+
+#footer {
+
+}
